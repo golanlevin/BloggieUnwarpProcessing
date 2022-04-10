@@ -10,7 +10,7 @@ This is a simple Processing tool for exporting unwarped panoramic video frames f
 
 1. Install Processing from [here](https://processing.org/).
 2. Launch Processing; install the "Video Library for Processing 4" by going *Sketch -> Import Library -> Add Library...*
-3. Make sure that this sketch folder is called "BloggieUnwarpProcessing". Processing will complain if the main BloggieUnwarpProcessing.pde file is in a folder with a different name.
+3. Download this project by clicking on the green "Code" button in the upper right of Github, and selecting "Download ZIP". After unzipping the bundle, make sure that this sketch folder is called "BloggieUnwarpProcessing". Processing will complain if the main BloggieUnwarpProcessing.pde file is in a folder with a different name.
 4. Make sure your Bloggie video opens in Quicktime. Put your Bloggie video in the "data" folder of this sketch.
 5. Edit the "settings.txt" file so that INPUT_WIDTH, INPUT_HEIGHT, and INPUT_FRAME_RATE match the properties of your Bloggie video.
 6. Click Play (Command-R) to run this sketch; your video should play.
